@@ -124,8 +124,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any queries or suggestions, feel free to reach out:
 - **Author**: Sahil Kurni
-- **Email**: [your-email@example.com] (Replace with your email)
-- **LinkedIn**: [Your LinkedIn Profile] (Optional)
+- **Email**: sahil7march@gmail.com
+- **LinkedIn**: www.linkedin.com/in/sahil-kurni
 
 ---
 
